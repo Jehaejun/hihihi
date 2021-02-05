@@ -6,7 +6,7 @@
 
 - 언어 :  java8
 - 프레임워크 : spring Boot
-  - spring security, lombok, JPA...
+  - spring security, lombok, JPA(Hibernate)...
 - 빌드도구 : gradle
 - IDE : STS, intelliJ
 - DBMS : MariaDB
